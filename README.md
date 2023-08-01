@@ -1,1 +1,3 @@
-<b>[Link to live app:][https://tictacglow.netlify.app]</b>
+## Links
+
+- Live App: [Link to Live App](https://tictacglow.netlify.app)
